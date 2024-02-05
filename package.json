@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_file_manager",
+  "version": "1.0.0",
+  "description": "Application for working with files",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikburachenok/nodejs_file_manager.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nikolay Burachenok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikburachenok/nodejs_file_manager/issues"
+  },
+  "homepage": "https://github.com/nikburachenok/nodejs_file_manager#readme"
+}
